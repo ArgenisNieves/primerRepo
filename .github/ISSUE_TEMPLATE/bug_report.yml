@@ -1,7 +1,9 @@
-name: "🐛 Bug Report"
-description: "Report an error to help improve the project"
+name: 🐛 Bug Report
+description: Report an error to help improve the project
 title: "🐞 BUG: Short description of the issue"
-labels: ["bug"]
+labels: [bug]
+assignees: [githubUsername]
+
 body:
   - type: markdown
     attributes:
